@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.1'
+pod "AFNetworking", "~> 2.0"
+pod "RESideMenu", "~> 4.0.7"
+pod "AVOSCloud"
+pod 'AVOSCloudCrashReporting'
+pod 'AVOSCloudIM'
+pod 'AVOSCloudSNS'
+pod 'UIColor+BFPaperColors', :head
+pod 'UIActivityIndicator-for-SDWebImage', '~> 1.0.3'
+pod 'MJExtension'

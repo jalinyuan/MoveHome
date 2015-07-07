@@ -1,0 +1,62 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - AVOSCloud (3.1.2.6)
+  - AVOSCloudCrashReporting (3.1.2.6):
+    - AVOSCloud
+  - AVOSCloudIM (3.1.2.6):
+    - AVOSCloud
+  - AVOSCloudSNS (3.1.2.6):
+    - AVOSCloud
+  - MJExtension (2.3.8)
+  - RESideMenu (4.0.7)
+  - SDWebImage (3.7.2):
+    - SDWebImage/Core (= 3.7.2)
+  - SDWebImage/Core (3.7.2)
+  - UIActivityIndicator-for-SDWebImage (1.0.5):
+    - SDWebImage (~> 3.2)
+  - UIColor+BFPaperColors (HEAD based on 1.7.1)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.0)
+  - AVOSCloud
+  - AVOSCloudCrashReporting
+  - AVOSCloudIM
+  - AVOSCloudSNS
+  - MJExtension
+  - RESideMenu (~> 4.0.7)
+  - UIActivityIndicator-for-SDWebImage (~> 1.0.3)
+  - UIColor+BFPaperColors (HEAD)
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  AVOSCloud: a2fc903a1aee5a346f0fb839f92617378fffd2ed
+  AVOSCloudCrashReporting: 6ea22bf56093c9bb2939680fd88989333ef12f0d
+  AVOSCloudIM: f8610c1139eb143f8260c984b6de83b93d7cca57
+  AVOSCloudSNS: 2310d5a478bfb31e1a2af85a93f5dcbe82d83023
+  MJExtension: d83b55e6cb95c6274388539c782386b56f394a6d
+  RESideMenu: f24c508404b49c667344c54aba7e590883533958
+  SDWebImage: 71b7cdc1d1721d6a82ed62889030225f2c249e29
+  UIActivityIndicator-for-SDWebImage: fdff5bee9b4c362922c51f032490634a09838f0f
+  UIColor+BFPaperColors: b1efa4320e2f56c4b14f73232faf967ba0e5b4a2
+
+COCOAPODS: 0.37.2

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>headPname</key>
+		<string>head6.jpg</string>
+		<key>titleP</key>
+		<string>石头</string>
+		<key>detailP</key>
+		<string>我下午想去公园玩，你去吗</string>
+		<key>edgeNum</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>headPname</key>
+		<string>head8.jpg</string>
+		<key>titleP</key>
+		<string>祺瑞设计部</string>
+		<key>detailP</key>
+		<string>小李：教学app程序以及完成，测试中</string>
+		<key>edgeNum</key>
+		<string>2</string>
+	</dict>
+	<dict/>
+	<dict/>
+	<dict/>
+	<string></string>
+	<string></string>
+</array>
+</plist>
